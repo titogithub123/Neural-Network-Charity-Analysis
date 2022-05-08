@@ -26,3 +26,4 @@ The purpose of this analysis is to use a deep learning neural network technique 
     - To increase the performance I tried to increase the nodes used, as well as change the activation layer model to a tanah to see if it improved performance. 
 
 ## Summary
+After several failed attempts to make improvements to the model, I finally used a Random Forest Classifier to the data to fit and evaluate the model. After which I was able to verify an approx. 78% accuracy score, improving upon previous attempts. 
